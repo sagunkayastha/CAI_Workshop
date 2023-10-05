@@ -1,5 +1,8 @@
 # CAI_Workshop
 
+![Logo](images/CAI.png)
+
+
 # Workshop 1 - Intro to Data Science Workshop
   Basics about Data science and AI. 
   <br/>
