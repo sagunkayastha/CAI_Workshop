@@ -3,7 +3,7 @@
 ![Logo](images/CAI.png)
 
 
-# Workshop 1 - Intro to Data Science Workshop
+# [Workshop 1 - Intro to Data Science Workshop](https://github.com/sagunkayastha/CAI_Workshop/tree/main/Workshop_1)
   Basics about Data science and AI. 
   <br/>
   [Numpy](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_1/intro_np.ipynb), [Pandas](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_1/intro_pandas.ipynb), [Matplotlib](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_1/intro_matplotlib.ipynb) Basics
