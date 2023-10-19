@@ -11,4 +11,7 @@
 
   - [Data Science Intro 1](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_1/DS_intro1.ipynb)
   - [Data Science Intro 2](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_1/DS_intro2.ipynb)
-  
+
+# [Workshop_2 - Intro to Data Science Workshop 2](https://github.com/sagunkayastha/CAI_Workshop/tree/main/Workshop_2)
+  [Basics](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_2/Basics.ipynb)
+  [Intro 2](https://github.com/sagunkayastha/CAI_Workshop/blob/main/Workshop_2/Intro_2.ipynb)
