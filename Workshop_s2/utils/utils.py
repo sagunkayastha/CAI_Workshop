@@ -8,6 +8,7 @@ np.random.seed(42)
 def generate_data(num_samples: int = 100):
     # Generate synthetic data
     # Random values in the range [0, 10)
+    np.random.seed(42)
     x1 = np.random.rand(num_samples, 1) * 10
     # Random values in the range [0, 10)
     x2 = np.random.rand(num_samples, 1) * 10
